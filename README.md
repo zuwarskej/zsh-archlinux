@@ -1,3 +1,7 @@
+## Install ZSH Debian/Ubuntu
+```
+apt install zsh
+```
 ## Archlinux ZSH configuration file link
 [Path to file](https://git.grml.org/?p=grml-etc-core.git;a=blob_plain;f=etc/zsh/zshrc;hb=HEAD)
 ## How to install
